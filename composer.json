@@ -1,0 +1,7 @@
+{
+    "name": "juhlinus/tus-server",
+    "description": "A tus server library.",
+    "autoload": {
+        "psr-4": {"TusIO_Server\\": "src/"}
+    }
+}
